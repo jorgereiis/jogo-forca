@@ -1,46 +1,21 @@
-Panela
-Pedra
-Papel
-Prato
-Pulseira
-Queijeira
-Quadro
-Regua
-Ratoeira
-Roleta
-Relogio
-Remo
-Roteador
-Rimel
-Revista
-Sandalia
-Sapato
-Saleiro
-Sino
-Saco
-Sacola
-Sabonete
-Shorts
-Tesoura
-Teclado
-Telefone
-Tampa
-Termometro
-Trena
-Telha
-Tatame
-Tamanco
-Urna
-Uniforme
-Vassoura
-Ventilador
-Varal
-Vaso
-Vidro
-Viseira
-Vela
-Xicara
-Xadrez
-Xale
-Xarope
-Ziper
+Panela - Muito utilizado na cozinha da sua casa
+ Pedra - Pode ser encontrado andando pela rua
+ Papel - Esse objeto infelizmente eh feito da madeira
+ ONIBUS - transporte comumente utilizado nas cidades
+ Queijeira - Muito utilizado para guardar queijo
+ Quadro - Pode ser utilizado para decorar a sua parede
+ Regua - Feito para analisar medidas
+ Ratoeira - Se prender o seu dedo com certeza vai doer muito
+ Roleta - Muito utilizado em jogos de azar
+ Relogio - Alguns utilizam no pulso e outros na parede
+ Remo - Se utilizar com bastante força, fara voce se mover no mar
+ Roteador - Sem ele voce nao tem internet
+ Rimel - As mulheres utilizam no rosto
+ Revista - Pode lhe deixar informado ou apenas decorar a sua estante
+ Sandalia - Serve para proteger seus pes
+ Sapato - Acesserio elegante e que tambem
+ VELA - Voce se sente falta no escuro
+ AMENDOIM - Alimento muito saboroso que os elefantes tambem amam
+ PASTEL - Nas pracas sempre tem alguem vendendo um, os mais gostosos sao de carne
+ TAREFA - Atividade executada no seu dia-a-dia
+ TATUAGEM - se estiver na sua pele, eh pro resto da vida
