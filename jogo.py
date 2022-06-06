@@ -1,7 +1,8 @@
 #!/user/bin/env python3
 """Jogo da Forca - Projeto Infernal
 Como usar:
-Rodar o programa, escolher a opção desejada e passar as letras para acertar a palavra da forca.
+Rodar o programa no console, escolher a opção desejada e passar as letras para acertar a palavra da forca.
+EX: python3 jogo.py, ./jogo.py ou jogo.py
 """
 __version__ = '0.1.0'
 __author__ = 'Jorge Reis'
