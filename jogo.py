@@ -27,7 +27,7 @@ while sair:
     erros = 0
     l_erradas = ''
     l_certas = ''
-    p_usadas = []
+    
     # Menu de opções do jogo
     os.system('cls')
     print('-=-=-=-=-=-=-=-=-=-\n🎮 JOGO DA FORCA 🎮\n-=-=-=-=-=-=-=-=-=-\n')
