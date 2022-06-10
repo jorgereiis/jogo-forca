@@ -6,13 +6,13 @@
 <h2 align="center">Funcionalidades</h2>
 <ol>
     <li>Escolha das opções do menu através de entrada numérica sendo de 1 á 5;</li>
-    <img src="./imgs/#1.png"/>
+    <img src="./imgs/#1.gif"/>
     <li>Jogabilidade simples com layout de fácil entendimento para que seja possível de qualquer pessoa utilizar;</li>
-    <img src="./imgs/#2.png"/>
+    <img src="./imgs/#2.gif"/>
     <li>Cadastro de novas palavras e dicas;</li>
-    <img src="./imgs/#3.png"/>
+    <img src="./imgs/#3.gif"/>
     <li>Consulta de Ranking;</li>
-    <img src="./imgs/#4.png"/>
+    <img src="./imgs/#4.gif"/>
 </ol>
 
 <h2 align="center">Sobre</h2>
