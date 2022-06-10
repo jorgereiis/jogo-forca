@@ -31,7 +31,7 @@ while sair:
     # Menu de opções do jogo
     os.system('cls')
     print('-=-=-=-=-=-=-=-=-=-\n🎮 JOGO DA FORCA 🎮\n-=-=-=-=-=-=-=-=-=-\n')
-    op = input('ESCOLHA UMA OPÇÃO:\n\n1️⃣  - JOGAR\n2️⃣  - VER RANKING\n3️⃣  - CADASTRAR PALAVRA\n4️⃣  - SOBRE\n5️⃣  - SAIR\n\n OPÇÃO: ')
+    op = input('ESCOLHA UMA OPÇÃO ABAIXO\n\n1️⃣  - JOGAR\n2️⃣  - VER RANKING\n3️⃣  - CADASTRAR PALAVRA\n4️⃣  - SOBRE\n5️⃣  - SAIR\n\n OPÇÃO: ')
 
     # Opção 1 (JOGAR)
     if op == '1':
