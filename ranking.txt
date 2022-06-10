@@ -1,14 +1,5 @@
-<<<<<<< HEAD
-100 Pontos - Jorge Reis [7 acertos, 0 erros]
-100 Pontos - Jorge Reis [8 acertos, 0 erros]
-60 Pontos - Joao [7 acertos, 2 erros]
-20 Pontos - Joao  [4 acertos, 4 erros]
-0 Pontos - joao [3 acertos, 6 erros]
-0 Pontos -  [1 acertos, 6 erros]
-=======
-60 Pontos - Jorge [5 acertos, 3 erros]
-60 Pontos - Jorge [7 acertos, 3 erros]
-60 Pontos - Jorge [4 acertos, 3 erros]
-20 Pontos - Leo [4 acertos, 4 erros]
-0 Pontos - Jorge [2 acertos, 6 erros]
->>>>>>> 868940063fa3753713621b760e15cc0d1ffbd0d7
+100 Pontos - Jorge Reis [7 acertos, 0 erros]60 Pontos - Jorge Reis [5 acertos, 2 erros]
+60 Pontos - Antonio [6 acertos, 2 erros]
+20 Pontos - Gabriel [6 acertos, 5 erros]
+0 Pontos - Felipe [2 acertos, 6 erros]
+60 Pontos -  [6 acertos, 3 erros]
