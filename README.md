@@ -5,9 +5,9 @@
 
 <h2 align="center">Funcionalidades</h2>
 <ol>
-    <li>Jogabilidade simples com layout de fácil entendimento para que seja possível de qualquer pessoa utilizar;</li>
-    # img
     <li>Escolha das opções do menu através de entrada numérica sendo de 1 á 5;</li>
+    # img
+    <li>Jogabilidade simples com layout de fácil entendimento para que seja possível de qualquer pessoa utilizar;</li>
     # img
     <li>Cadastro de novas palavras e dicas;</li>
     # img
